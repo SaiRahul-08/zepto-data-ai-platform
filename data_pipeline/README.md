@@ -39,3 +39,14 @@ SQL Analysis
        v
 Pandas JOIN Comparison
 ```
+
+## Reproducibility Checklist
+
+The complete module can be reproduced from the project root in this order:
+
+```text
+1. scraper.py
+2. pipeline.py
+3. database.py
+4. queries.py
+```
