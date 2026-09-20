@@ -1,0 +1,2 @@
+r_squared,adjusted_r_squared,rmse,bp_lm_statistic,bp_lm_pvalue,bp_f_statistic,bp_f_pvalue,heteroscedasticity_result
+0.17743677322314455,0.15359436085280087,58.519813039360955,7.151947193831691,0.12807309635820896,1.8163100102675136,0.1291073415874216,No statistically significant evidence of heteroscedasticity

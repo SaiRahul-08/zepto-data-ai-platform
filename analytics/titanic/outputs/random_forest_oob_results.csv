@@ -1,0 +1,2 @@
+model,oob_score,test_accuracy,test_precision,test_recall,test_f1
+random_forest_oob,0.8075842696629213,0.8100558659217877,0.7966101694915254,0.6811594202898551,0.734375
