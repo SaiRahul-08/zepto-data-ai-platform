@@ -8,3 +8,7 @@ scikit-learn
 joblib
 imbalanced-learn
 statsmodels
+fastapi
+uvicorn
+pytest
+httpx
