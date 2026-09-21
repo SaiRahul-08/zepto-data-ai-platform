@@ -1,3 +1,6 @@
-from src.vector_store import build_index
-c = build_index()
-print(f"Indexed {c.count()} chunks in ChromaDB.")
+from support_assistance.src.vector_store import build_index
+
+
+if __name__ == "__main__":
+    collection = build_index()
+    print(f"Indexed {collection.count()} chunks in ChromaDB.")
