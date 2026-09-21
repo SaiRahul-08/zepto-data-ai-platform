@@ -1,0 +1,11 @@
+,account_issue,coupon_issue,delivery_delay,order_cancel,order_status,payment_issue,product_availability,product_info,refund,return_request
+account_issue,1,0,0,0,0,0,0,0,0,0
+coupon_issue,0,1,0,0,0,0,0,0,0,0
+delivery_delay,0,0,1,0,0,0,0,0,0,0
+order_cancel,0,0,0,1,0,0,0,0,0,0
+order_status,0,0,0,0,1,0,0,0,0,0
+payment_issue,0,0,0,0,0,1,0,0,0,0
+product_availability,0,0,0,0,0,0,0,1,0,0
+product_info,1,0,0,0,0,0,0,0,0,0
+refund,0,0,0,0,0,0,0,0,1,0
+return_request,0,0,0,0,0,0,0,0,0,1

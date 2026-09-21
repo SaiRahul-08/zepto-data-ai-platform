@@ -1,0 +1,14 @@
+,precision,recall,f1-score,support
+account_issue,0.5,1.0,0.6666666666666666,1.0
+coupon_issue,1.0,1.0,1.0,1.0
+delivery_delay,1.0,1.0,1.0,1.0
+order_cancel,1.0,1.0,1.0,1.0
+order_status,1.0,1.0,1.0,1.0
+payment_issue,1.0,1.0,1.0,1.0
+product_availability,0.0,0.0,0.0,1.0
+product_info,0.0,0.0,0.0,1.0
+refund,1.0,1.0,1.0,1.0
+return_request,1.0,1.0,1.0,1.0
+accuracy,0.8,0.8,0.8,0.8
+macro avg,0.75,0.8,0.7666666666666666,10.0
+weighted avg,0.75,0.8,0.7666666666666666,10.0
